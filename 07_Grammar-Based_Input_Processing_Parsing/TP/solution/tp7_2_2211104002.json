@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "KPL",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "TTI",
+			"name": "TATA TULIS ILMIAH"
+		},
+		{
+			"code": "DT",
+			"name": "DESIGN THINKING"
+		},
+		{
+			"code": "MKPL",
+			"name": "MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK (MKEPL)"
+		},
+		{
+			"code": "PKPL",
+			"name": "Praktikum Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "PT",
+			"name": "Proyek tingat 2"
+		},
+		{
+			"code": "KB",
+			"name": "Kecerdasan Buatan"
+		}
+	]
+}

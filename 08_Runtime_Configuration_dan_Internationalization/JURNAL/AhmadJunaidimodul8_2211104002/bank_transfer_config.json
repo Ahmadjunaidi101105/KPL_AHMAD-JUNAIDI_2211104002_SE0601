@@ -1,0 +1,13 @@
+{
+  "lang": "id",
+  "transfer": {
+    "threshold": 20000000,
+    "low_fee": 5000,
+    "high_fee": 10000
+  },
+  "methods": [ "RTO", "SKN", "RTGS", "BI FAST", "Kliring" ],
+  "confirmation": {
+    "en": "confirm",
+    "id": "konfirmasi"
+  }
+}

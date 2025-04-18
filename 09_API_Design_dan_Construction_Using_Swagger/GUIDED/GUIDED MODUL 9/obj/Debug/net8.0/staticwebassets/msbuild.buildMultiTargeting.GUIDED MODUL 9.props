@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GUIDED MODUL 9.props" />
+</Project>

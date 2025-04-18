@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GUIDED MODUL 9.props" />
+</Project>

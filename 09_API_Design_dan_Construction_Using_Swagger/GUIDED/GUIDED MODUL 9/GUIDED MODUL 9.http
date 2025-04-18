@@ -1,0 +1,6 @@
+@GUIDED_MODUL_9_HostAddress = http://localhost:5293
+
+GET {{GUIDED_MODUL_9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

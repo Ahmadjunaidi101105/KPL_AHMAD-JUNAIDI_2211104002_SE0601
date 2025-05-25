@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj": {}
+    "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj": {}
   },
   "projects": {
-    "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj": {
+    "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj",
+        "projectUniqueName": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj",
         "projectName": "modul9_2211104002",
-        "projectPath": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj",
+        "projectPath": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104002\\modul9_2211104002\\modul9_2211104002.csproj",
         "packagesPath": "C:\\Users\\junai\\.nuget\\packages\\",
-        "outputPath": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\modul9_2211104002\\modul9_2211104002\\obj\\",
+        "outputPath": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104002\\modul9_2211104002\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

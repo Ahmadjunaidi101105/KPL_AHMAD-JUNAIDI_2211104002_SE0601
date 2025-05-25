@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\13_Design_Pattern_Implementation\\TP\\Modul13_2211104002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67FA6B7-9714-4BDB-8F8D-9D84EEE08EE6}|Modul13_2211104002.csproj|c:\\semester 6\\praktikum konstruksi perangkat lunak\\kpl_ahmad-junaidi_2211104002_se0601\\13_design_pattern_implementation\\tp\\modul13_2211104002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67FA6B7-9714-4BDB-8F8D-9D84EEE08EE6}|Modul13_2211104002.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67FA6B7-9714-4BDB-8F8D-9D84EEE08EE6}|Modul13_2211104002.csproj|c:\\semester 6\\praktikum konstruksi perangkat lunak\\kpl_ahmad-junaidi_2211104002_se0601\\13_design_pattern_implementation\\tp\\modul13_2211104002\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67FA6B7-9714-4BDB-8F8D-9D84EEE08EE6}|Modul13_2211104002.csproj|solutionrelative:pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PusatDataSingleton.cs",
+              "DocumentMoniker": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\13_Design_Pattern_Implementation\\TP\\Modul13_2211104002\\PusatDataSingleton.cs",
+              "RelativeDocumentMoniker": "PusatDataSingleton.cs",
+              "ToolTip": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\13_Design_Pattern_Implementation\\TP\\Modul13_2211104002\\PusatDataSingleton.cs",
+              "RelativeToolTip": "PusatDataSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:28:46.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\13_Design_Pattern_Implementation\\TP\\Modul13_2211104002\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SEMESTER 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\\KPL_AHMAD-JUNAIDI_2211104002_SE0601\\13_Design_Pattern_Implementation\\TP\\Modul13_2211104002\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:27:43.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

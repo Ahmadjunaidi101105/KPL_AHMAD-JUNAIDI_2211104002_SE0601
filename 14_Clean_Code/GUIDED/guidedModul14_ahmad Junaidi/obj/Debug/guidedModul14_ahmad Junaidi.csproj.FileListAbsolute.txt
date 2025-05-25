@@ -1,0 +1,7 @@
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\bin\Debug\guidedModul14_ahmad Junaidi.exe.config
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\bin\Debug\guidedModul14_ahmad Junaidi.exe
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\bin\Debug\guidedModul14_ahmad Junaidi.pdb
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\obj\Debug\guidedModul14_ahmad Junaidi.csproj.AssemblyReference.cache
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\obj\Debug\guidedModul14_ahmad Junaidi.csproj.CoreCompileInputs.cache
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\obj\Debug\guidedModul14_ahmad Junaidi.exe
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\14_Clean_Code\GUIDED\guidedModul14_ahmad Junaidi\obj\Debug\guidedModul14_ahmad Junaidi.pdb

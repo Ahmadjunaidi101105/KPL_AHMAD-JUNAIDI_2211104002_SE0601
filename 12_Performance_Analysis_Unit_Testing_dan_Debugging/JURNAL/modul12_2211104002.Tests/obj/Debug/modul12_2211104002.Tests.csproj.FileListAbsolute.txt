@@ -1,0 +1,2 @@
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\12_Performance_Analysis_Unit_Testing_dan_Debugging\JURNAL\modul12_2211104002.Tests\obj\Debug\modul12_2211104002.Tests.csproj.AssemblyReference.cache
+C:\SEMESTER 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\KPL_AHMAD-JUNAIDI_2211104002_SE0601\12_Performance_Analysis_Unit_Testing_dan_Debugging\JURNAL\modul12_2211104002.Tests\obj\Debug\modul12_2211104002.Tests.csproj.CoreCompileInputs.cache
